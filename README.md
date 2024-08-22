@@ -1,12 +1,15 @@
-- 👋 Hi, I’m @viih3103
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Boas vindas ao meu perfil ❤️
+Meu nome é Victoria
 
-<!---
-viih3103/viih3103 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Estou estudando na Alura
+
+- Estou me desenvolvendo na linguagem JavaScript
+
+- Utilizo esse esparço para organização e compartilhamento dos meus projetos desenvolvidos
+
+### Você entrar em contato comigo 📫
+00001123917164sp@al.educacao.sp.gov.br
+
+@vitori4._.xz
+
+![](https://media.tenor.com/ijffyjt8WKYAAAAi/dog-twerk.gif)
